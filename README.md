@@ -1,6 +1,6 @@
 # [Sprunki Infected](https://sprunki-infected.com/) Mod Game Chrome Extension
 
-Welcome to the official chrome extention repository for [[Sprunki-Infected.com](https://sprunki-infected.com/)](https://sprunki-infected.com/), the Sprunki Infected mod of the popular Incredibox music creation game.
+Welcome to the official chrome extention repository for [Sprunki-Infected.com](https://sprunki-infected.com/), the Sprunki Infected mod of the popular Incredibox music creation game.
 
 ## Table of Contents
 
