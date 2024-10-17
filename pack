@@ -1,0 +1,14 @@
+#/bin/sh
+
+rm -fr ./dist
+mkdir dist
+cp -r * ./dist
+cd ./dist
+
+rm -fr README.*
+rm -fr dist
+rm  pack
+rm -fr .git
+rm .gitignore
+
+zip -r sprunki-infected-1.0.0.zip *
